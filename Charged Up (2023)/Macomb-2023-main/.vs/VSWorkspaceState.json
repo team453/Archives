@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FRC_453-Kitbot-2023-Imported",
+    "\\FRC_453-Kitbot-2023-Imported\\src",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java\\frc",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java\\frc\\robot",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java\\frc\\robot\\commands",
+    "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java\\frc\\robot\\subsystems"
+  ],
+  "SelectedNode": "\\FRC_453-Kitbot-2023-Imported\\src\\main\\java\\frc\\robot\\RobotContainer.java",
+  "PreviewInSolutionExplorer": false
+}

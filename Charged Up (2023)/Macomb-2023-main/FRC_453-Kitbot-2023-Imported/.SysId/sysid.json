@@ -1,0 +1,16 @@
+{
+  "SysId": {
+    "Analysis Type": "Drivetrain",
+    "NetworkTables Settings": {
+      "serverTeam": "453"
+    },
+    "Program Log": {
+      "window": {
+        "visible": false
+      }
+    },
+    "dsClient": false,
+    "mode": "Client (NT4)",
+    "serverTeam": "453"
+  }
+}
